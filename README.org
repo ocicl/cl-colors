@@ -1,0 +1,9 @@
+* cl-colors
+
+Simple color library for Common Lisp
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/tpapp/cl-colors.git |
+| commit  | 8274105                                    |
+| systems | cl-colors                                  |
+|---------+--------------------------------------------|
