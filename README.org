@@ -7,4 +7,4 @@ Simple color library for Common Lisp
 | commit  | 8274105                                    |
 | systems | cl-colors                                  |
 |---------+--------------------------------------------|
- 
+  
